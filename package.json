@@ -1,0 +1,15 @@
+{
+  "name": "twilio-dialer",
+  "version": "1.0.0",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js",
+    "dev": "node api/server.js"
+  },
+  "dependencies": {
+    "twilio": "^4.19.0"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
